@@ -1,4 +1,3 @@
-class WelcomeController < ActionController::Base
-
+class WelcomeController < ApplicationController
 
 end
